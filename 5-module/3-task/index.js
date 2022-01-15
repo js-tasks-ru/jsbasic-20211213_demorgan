@@ -22,4 +22,5 @@ function initCarousel() {
       buttonLeft.style.display = 'none';
     }
    }
+   console.log(y)
  }
